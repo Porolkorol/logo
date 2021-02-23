@@ -1,0 +1,22 @@
+li{
+  color: red;
+}
+p > i {
+  color:khaki;
+} 
+
+article + article {
+  color: lightcoral;
+}
+
+h2 ~ p {
+  background-color: lightcyan;
+}
+
+.important {
+  background-color: black;
+}
+
+header {
+  color: crimson;
+} 
