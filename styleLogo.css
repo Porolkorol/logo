@@ -1,0 +1,38 @@
+#background {
+  position: fixed; 
+  top: 400px; 
+  left: 20px; 
+  right: 300px; 
+  bottom: 800px;
+  border: 5px solid gold;
+  width: 200px; 
+  height: 100px;
+  -webkit-border-radius: 190px 0px 40px 40px;
+  -moz-border-radius: 190px 0px 40px 40px;
+  border-radius: 190px 0px 40px 40px;
+  background-color: black;
+  ;
+  }
+
+  #owls  {
+  position: fixed; top: 420px; left: 60px; right: 100px; bottom: 100px;
+  border: 5px solid gold;
+  width: 10px; 
+  height: 10px;
+  }
+
+#owls2{
+  position: fixed; top: 420px; left: 100px; right: 10px; bottom: 10px;
+  border: 5px solid gold;
+  width: 10px; 
+  height: 10px;
+  }
+
+
+#owls3{
+  position: fixed; top: 450px; left: 100px; right: 10px; bottom: 10px;
+  border: 5px solid gold;
+  width: 20px; 
+  height: 20px;
+  }
+
